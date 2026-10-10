@@ -3,7 +3,7 @@ class Parent {
         System.out.println(x+y);
     }
 }
-class Child extends parent{
+class Child extends Parent{
     public void sub(int x, int y){
         System.out.print(x-y);
     }
