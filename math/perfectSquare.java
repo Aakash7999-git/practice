@@ -4,7 +4,7 @@ public class perfectSquare {
         Scanner sc = new Scanner(System.in);
 
         int n = sc.nextInt();
-        for(int i = 0;i<=n){
+        for(int i = 0; i<=n){
             System.out.print("this is ");
 
         }

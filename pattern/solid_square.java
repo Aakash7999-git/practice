@@ -1,4 +1,3 @@
-package pattern;
 
 public class solid_square {
     public static void main (String[]args){

@@ -14,7 +14,7 @@ public class pln {
          }
 
          if(ori==rev){
-            System.out.print("true")
+            System.out.print("true");
          }
          else{
             System.out.println("false");
