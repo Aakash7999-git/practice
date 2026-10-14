@@ -16,6 +16,7 @@ public class simple {
         } else {
             System.out.println("Set doesn't contain 1");
         }
-        IO.print(set);
+        IO.println(set);
+        IO.println(set.size());
     }
 }
