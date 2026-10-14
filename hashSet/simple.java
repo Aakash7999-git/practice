@@ -18,5 +18,12 @@ public class simple {
         }
         IO.println(set);
         IO.println(set.size());
+
+        //  iterator
+        Iterator it = set.iterator();
+        while (it.hasNext()) {
+            IO.println(it.next());
+            
+        }
     }
 }
