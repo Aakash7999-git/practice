@@ -1,4 +1,4 @@
-package hashSet;g
+package hashSet;
 import java.util.*;
 
 public class simple {
@@ -16,5 +16,6 @@ public class simple {
         } else {
             System.out.println("Set doesn't contain 1");
         }
+        IO.print(set);
     }
 }
